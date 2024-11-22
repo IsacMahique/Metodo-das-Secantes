@@ -68,3 +68,48 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# Projeto React com MathJS
+
+Este projeto foi criado com React e utiliza a biblioteca `mathjs` para cálculos numéricos.
+
+## Como executar o projeto
+
+Siga os passos abaixo para configurar e iniciar o projeto em sua máquina local:
+
+### 1. Clone o repositório  
+Faça o download do projeto diretamente a partir do GitHub ou utilize a funcionalidade de clone da plataforma.
+
+Depois de clonar ou baixar o projeto, entre na pasta principal onde os arquivos estão localizados e instale as dependências:
+-> npm install
+
+
+Certifique-se de que a biblioteca mathjs está instalada no ambiente. Caso não esteja, execute:
+-> npm install mathjs
+
+Depois de instalar as dependências, inicie o servidor de desenvolvimento com o comando:
+-> npm start
+
+
+Aqui está o conteúdo completo e unido para o arquivo README.md:
+
+markdown
+Copiar código
+# Projeto React com MathJS
+
+Este projeto foi criado com React e utiliza a biblioteca `mathjs` para cálculos numéricos.
+
+## Como executar o projeto
+
+Siga os passos abaixo para configurar e iniciar o projeto em sua máquina local:
+
+### 1. Clone o repositório  
+Faça o download do projeto diretamente a partir do GitHub ou utilize a funcionalidade de clone da plataforma.
+
+Depois de clonar ou baixar o projeto, entre na pasta principal onde os arquivos estão localizados e instale as dependências:
+
+
+Abra o navegador e acesse o endereço padrão:
+http://localhost:3000
