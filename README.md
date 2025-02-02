@@ -1,3 +1,13 @@
+# Preview images
+## `#1`
+![localhost_3000_1](https://github.com/user-attachments/assets/534d15fc-d4ce-4bad-85e7-6d76572f4ce0)
+
+## `#2`
+![localhost_3000_2](https://github.com/user-attachments/assets/a15b4626-68d2-4968-a02e-69161cd140ba)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
